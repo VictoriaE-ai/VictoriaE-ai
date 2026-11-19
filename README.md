@@ -85,7 +85,8 @@ Together, these projects reflect my interest in **healthcare data analytics, cli
 
 - **MSc Data Analytics and Technologies (Distinction)** — University of Bolton.
 - **BEng Electrical and Electronics Engineering**.
-- **Level 7 Diploma in Health and Social Care**.
+- **Level 7 Diploma in Health and Social Care** — London School of Business and Research (LSBR); chosen additional specialisation: **Health Informatics**.
+- **Advanced Certificate in Health Informatics** — LSBR School of Executive Education (November 2026), awarded for the additional specialisation course.
 - Professional experience spanning IT support, engineering and healthcare.
 
 ## 🔭 Current Focus
