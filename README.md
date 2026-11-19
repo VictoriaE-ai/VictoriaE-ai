@@ -1,6 +1,6 @@
 # Hello, I'm Victoria Ekweani 👋
 
-### Clinical Engineering | Healthcare Data Analytics | Responsible AI | Patient Safety
+### Healthcare Data & AI Analytics | Predictive Analytics | Medical Device Reliability | Patient Safety | MSc Data Analytics
 
 **Engineering safer, smarter, and more connected healthcare through data and responsible AI.**
 
